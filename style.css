@@ -1,0 +1,5 @@
+body{
+    background-image: linear-gradient(to left ,rgb(111, 0, 255),green,yellow);
+    color: brown;
+    font-size: 20px;
+}
